@@ -1,0 +1,32 @@
+
+{
+"package": {
+  "name": "menkuotto/motto",
+  "version": "1.0.0",
+  "source": {
+    "url": "https://github.com/menkuotto/motto",
+    "type": "git"
+   
+  },
+    "name": "motto",
+    "description": "framework",
+    "keywords": ["package", "composer"],
+    "homepage": "http://packagist.org/",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ménkű Ottó",
+            "email": "motto001@gmail.com",
+            "homepage": "http://motto.infolapok.hu"
+        }
+    ],
+    "support": {
+          "email": "contact@packagist.org"
+    },
+ 
+    "require": {
+        "php": ">=7.0",
+        "phpunit/phpunit": "^5.7"
+    }
+}
